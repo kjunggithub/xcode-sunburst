@@ -8,7 +8,7 @@ Some colour and font changes were made to suit my needs.
 
 ## Install
 ```shell
-$ git clone git@github.com:kjunggithub/xcode-sunburst.git
+$ git clone git://github.com:kjunggithub/xcode-sunburst.git
 $ cd xcode-sunburst
 $ mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 $ cp Sunburst.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
