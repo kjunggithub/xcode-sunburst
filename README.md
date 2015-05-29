@@ -7,6 +7,10 @@ Some colour and font changes were made to suit my needs.
 ![Screenshot](https://cloud.githubusercontent.com/assets/2159304/4535584/7f399928-4db6-11e4-8c25-d361a803d757.png)
 
 ## Install
+### Alcatraz
+Sunburst theme can be now installed through [Alcatraz](https://github.com/supermarin/Alcatraz).
+
+### Manually
 ```shell
 $ git clone git://github.com:kjunggithub/xcode-sunburst.git
 $ cd xcode-sunburst
